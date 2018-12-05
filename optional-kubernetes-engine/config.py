@@ -30,7 +30,7 @@ SECRET_KEY = 'secret'
 # 'datastore' as it does not require any additional configuration.
 DATA_BACKEND = 'datastore'
 
-# Google Cloud Project ID. This can be found on the 'Overview' page at
+# Google Cloud Project ID. This can be found on the Overview page at
 # https://console.developers.google.com
 PROJECT_ID = 'ch-eaeeify0btx4ecgkiof14ne6cld'
 
